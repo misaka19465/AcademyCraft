@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GPL-v3"
+issueTrackerURL="https://github.com/misaka19465/AcademyCraft/issues"
+[[mods]]
+modId="academycraft"
+version="${file.jarVersion}"
+displayName="Academy Craft"
+displayURL="https://github.com/misaka19465/AcademyCraft"
+logoFile="logo.png"
+authors="acaly, WeathFolD, KS, Misaka19465"
+description='''
+A Minecraft mod about superability. The inspiration of AcademyCraft comes from A Certain Scientific Railgun (とある科学の超電磁砲) but the mod content is not limited of the background.
+Visit AcademyCraft's Website to get the latest release and know more about it.
+'''
